@@ -11,5 +11,6 @@ package entity;
  */
 public class medoc {
     private int idMedoc;
+    private String nom; 
     
 }
